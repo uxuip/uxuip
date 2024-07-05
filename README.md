@@ -13,7 +13,7 @@
 ### **Frameworks and Tools**
 
 <code><img height="24" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="24" alt="taro" src="https://docs.taro.zone/img/icons/icon-144x144.png"></code>
+<code><img height="24" alt="taro" src="https://docs.taro.zone/img/taro-logo_180.png"></code>
 <code><img height="24" alt="uniapp" src="https://qiniu-web-assets.dcloud.net.cn/unidoc/zh/icon.png"></code>
 <code><img height="24" alt="wechat-miniprogram" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico"></code>
 <code><img height="24" alt="unocss" src="https://unocss.dev/logo.svg"></code>
